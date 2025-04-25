@@ -1,0 +1,159 @@
+[
+  {
+    "id": "45843df6-2fa9-4c0e-a20c-49ccad2565ca",
+    "name": "Delta Tikli Red",
+    "description": "Traditional green Kanjeevaram saree featuring rich silk fabric and intricate temple border.",
+    "price": "19000",
+    "image": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745322169/delta-red_tss2zx.jpg",
+    "image1": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745322169/delta-red-1_n3odvk.jpg",
+    "image2": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745322170/delta-red-2_xkpj4q.jpg",
+    "image3": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745322170/delta-red-3_cv98ce.jpg",
+    "category": "women"
+  },
+  {
+    "id": "b36958c6-f135-4f9f-b03b-9927c15bdea6",
+    "name": "Delta Tikli Green",
+    "description": "Traditional green Kanjeevaram saree featuring rich silk fabric and intricate temple border.",
+    "price": "19000",
+    "image": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745322355/delta-greenn_srcpg7.jpg",
+    "image1": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745322356/6260366218259186374_u89bat.jpg",
+    "image2": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745322354/6260366218259186372_gmmngi.jpg",
+    "image3": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745322356/delta-green3_2_aedwmg.jpg",
+    "category": "women"
+  },
+  {
+    "id": "d4643f79-58bf-4882-a748-271210f34c5b",
+    "name": "Delta Tikli Blue",
+    "description": "Traditional green Kanjeevaram saree featuring rich silk fabric and intricate temple border.",
+    "price": "19000",
+    "image": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745322541/6260366218259186370_dtrchu.jpg",
+    "image1": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745322542/6260366218259186371_nuroli.jpg",
+    "image2": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745322540/6260366218259186369_jdpwri.jpg",
+    "image3": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745322542/6260366218259186364_xmyiav.jpg",
+    "category": "women"
+  },
+  {
+    "id": "c1de783e-4d94-4c20-86e8-f1f4de707f85",
+    "name": "Delta Tikli Purple",
+    "description": "Traditional green Kanjeevaram saree featuring rich silk fabric and intricate temple border.",
+    "price": "19000",
+    "image": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745321982/delta-green-1_rw2s2s.jpg",
+    "image1": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745321982/delta-green_occzy6.jpg",
+    "image2": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745321982/delta-green-2_q4gsld.jpg",
+    "image3": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745321982/delta-green3_yvpwur.jpg",
+    "category": "women"
+  },
+  {
+    "id": "e2510535-5853-4315-aa09-b91a3b4495ce",
+    "name": "Mohabbat Patti Blue",
+    "description": "Traditional green Kanjeevaram saree featuring rich silk fabric and intricate temple border.",
+    "price": "19000",
+    "image": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745397572/6247013465583629647_tyebee.jpg",
+    "image1": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745397577/6247013465583629645_o0xobe.jpg",
+    "image2": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745397576/6247013465583629644_qcx54v.jpg",
+    "image3": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745397574/6247013465583629648_nojmbr.jpg",
+    "category": "women"
+  },
+  {
+    "id": "6519c9f0-bfe3-4e4c-acdf-2dfed1e0eb5d",
+    "name": "Mohabbat Patti Green",
+    "description": "Traditional green Kanjeevaram saree featuring rich silk fabric and intricate temple border.",
+    "price": "19000",
+    "image": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745391453/6247013465583629652_wmtvee.jpg",
+    "image1": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745391453/6247013465583629653_v7ts8u.jpg",
+    "image2": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745391453/6247013465583629651_vv85qv.jpg",
+    "image3": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745391454/6247013465583629654_ncbycx.jpg",
+    "category": "women"
+  },
+  {
+    "id": "012b52fb-bf5c-40bc-9698-049b3a1078a2",
+    "name": "Mohabbat Patti Maroon",
+    "description": "Traditional green Kanjeevaram saree featuring rich silk fabric and intricate temple border.",
+    "price": "19000",
+    "image": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745397346/6247013465583629602_qeb4ho.jpg",
+    "image1": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745397344/6247013465583629605_ruknxp.jpg",
+    "image2": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745397343/6247013465583629604_zxsnr1.jpg",
+    "image3": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745397345/6247013465583629606_erv6tw.jpg",
+    "category": "women"
+
+  },
+  {
+    "id": "cd1cc712-e5b7-4b54-9c90-ef098f68137a",
+    "name": "Mohabbat Patti Pink",
+    "description": "Traditional green Kanjeevaram saree featuring rich silk fabric and intricate temple border.",
+    "price": "19000",
+    "image": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745397467/6247013465583629629_uftlc1.jpg",
+    "image1": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745397482/6247013465583629628_goklh7.jpg",
+    "image2": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745397483/6247013465583629625_jgxfyt.jpg",
+    "image3": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745397482/6247013465583629630_o7vdr0.jpg",
+    "category": "women"
+
+  },
+  {
+    "id": "d2403610-8bec-4c99-91e8-c59fac41d271",
+    "name": "Mohabbat Patti Red",
+    "description": "Traditional green Kanjeevaram saree featuring rich silk fabric and intricate temple border.",
+    "price": "19000",
+    "image": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745397295/6247013465583629597_uevfc5.jpg",
+    "image1": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745397303/6247013465583629598_arkfgt.jpg",
+    "image2": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745397303/6247013465583629596_xzsdz0.jpg",
+    "image3": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745397302/6247013465583629600_jtmor8.jpg",
+    "category": "women"
+
+  },
+  {
+    "id": "1daefbfb-58f7-4cdb-8c93-4f981c5b84d6",
+    "name": "Mohabbat Patti Wine",
+    "description": "Traditional green Kanjeevaram saree featuring rich silk fabric and intricate temple border.",
+    "price": "19000",
+    "image": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745397532/6247013465583629641_dfomzo.jpg",
+    "image1": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745397530/6247013465583629640_hs6fkj.jpg ",
+    "image2": "hhttps://res.cloudinary.com/drvw3qqw7/image/upload/v1745397531/6247013465583629638_ic6nuw.jpg",
+    "image3": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745397534/6247013465583629642_fqhjqb.jpg",
+    "category": "women"
+  },
+  {
+    "id": "fa567530-b729-4a58-a38a-ccbef4f520fd",
+    "name": "Anarkali Kids Wine",
+    "description": "Traditional green Kanjeevaram saree featuring rich silk fabric and intricate temple border.",
+    "price": "19000",
+    "image": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745402999/6100659749143035741_zkckln.jpg",
+    "image1": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745403000/6100659749143035742_xy201f.jpg",
+    "image2": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745403003/6100659749143035740_lcqvlb.jpg",
+    "image3": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745403000/6100659749143035743_dh6qvo.jpg",
+    "category": "kids"
+  },
+  {
+    "id": "13667114-2c8f-466e-92d0-943a2ff73590",
+    "name": "Anarkali Kids Red",
+    "description": "Traditional green Kanjeevaram saree featuring rich silk fabric and intricate temple border.",
+    "price": "19000",
+    "image": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745403255/6100659749143035721_a67trv.jpg",
+    "image1": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745403256/6100659749143035722_iy6eh3.jpg",
+    "image2": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745403257/6100659749143035725_ts5efr.jpg",
+    "image3": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745403260/6100659749143035724_pxfk0c.jpg",
+    "category": "kids"
+  },
+  {
+    "id": "58e66fa7-77a2-4aa2-af35-c621779e4869",
+    "name": "Anarkali Kids Green",
+    "description": "Traditional green Kanjeevaram saree featuring rich silk fabric and intricate temple border.",
+    "price": "19000",
+    "image": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745403109/6100659749143035736_nw2f23.jpg",
+    "image1": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745403109/6100659749143035738_l2h3gq.jpg",
+    "image2": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745403108/6100659749143035735_txgu3x.jpg",
+    "image3": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745403110/6100659749143035733_a5ecx9.jpg",
+    "category": "kids"
+  },
+  {
+    "id": "9a85f11b-f82b-44a0-927f-5d04b772aec7",
+    "name": "Anarkali Kids Purple",
+    "description": "Traditional green Kanjeevaram saree featuring rich silk fabric and intricate temple border.",
+    "price": "19000",
+    "image": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745403190/6100659749143035731_vtyt6y.jpg",
+    "image1": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745403185/6100659749143035732_klfebi.jpg",
+    "image2": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745403188/6100659749143035728_nbokwx.jpg",
+    "image3": "https://res.cloudinary.com/drvw3qqw7/image/upload/v1745403187/6100659749143035733_1_pipsam.jpg",
+    "category": "kids"
+  }
+]
